@@ -1,2 +1,1 @@
-# todoApp
-Flutter Todo App 
+A simple todo app with Flutter Get.Storage
